@@ -1,20 +1,37 @@
-## It's MeNiKa !!! 
+## It's MeNiKa :) !!! 
 
+<h2 align="center">Mehmet Niyazi Kayi</h2>
+<p align="center">
+  Quantum Computing Researcher @ GWDG • M.Sc. Physics (Computational & Theoretical)  @ Göttingen
+</p>
 
+<p align="center">
+  <a href="mailto:mehmetniyazi.kayi@stud.uni-goettingen.de">Email</a> •
+  <a href="https://github.com/mehmet">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mehmet">LinkedIn</a> •
+  <a href="https://mehmetniyazikayi.github.io/">QuantBrain</a>
+</p>
 
+---
 
+### About
+I’m a physics M.Sc. student focused on **quantum algorithms + HPC**, currently working at **GWDG (Göttingen)**.
 
+-  **Research:** QAOA/VQE, QPE, QML, quantum simulation & benchmarking  
+-  **HPC workflows:** Docker/Singularity containers for quantum simulators  
+-  **Teaching:** workshops + tutorials (ISC25, NHR QML tutorial, GWDG Academy, University of Göttingen)  
+-  **Tech:** Python, Linux/Bash, Git, containers, ML (PyTorch), Qiskit, PennyLane, Qulacs, Qsim, CUDA-Q, QuTip ...
 
+---
 
+### Highlights
+- Built & maintained **container stacks for quantum simulators on HPC systems**
+- Developed QC use-cases: **QAOA (JSSP, MaxCut)**, **QPE (Hydrogen molecule)**, **QML (qNN / kNN)**, many more coming :)
+- Poster + tutorial delivery at **ISC25** on QC/HPC benchmarking and quantum optimization
 
+---
 
-
-
-
-
-
-
-
+### Schrödinger’s Dino
 ```
                                                ____
    ___                                      .-~. /_"-._
@@ -42,9 +59,14 @@
    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
-
-
-
+```
+  __  __                                                                         _   
+ |  \/  |   ___    __ _   ___   _   _   _ __    ___   _ __ ___     ___   _ __   | |_ 
+ | |\/| |  / _ \  / _` | / __| | | | | | '__|  / _ \ | '_ ` _ \   / _ \ | '_ \  | __|
+ | |  | | |  __/ | (_| | \__ \ | |_| | | |    |  __/ | | | | | | |  __/ | | | | | |_ 
+ |_|  |_|  \___|  \__,_| |___/  \__,_| |_|     \___| |_| |_| |_|  \___| |_| |_|  \__|
+                                                                                     
+```
 ```
                                    . . . . . . .          .---_--.
                             ,,,_,_;_)_)_)_)_)_)_)_       //! (#) _\
