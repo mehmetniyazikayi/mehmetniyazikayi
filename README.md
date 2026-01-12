@@ -19,13 +19,12 @@ I’m a physics M.Sc. student focused on **quantum algorithms + HPC**, currently
 -  **Research:** QAOA/VQE, QPE, QML, quantum simulation & benchmarking  
 -  **HPC workflows:** Docker/Singularity containers for quantum simulators  
 -  **Teaching:** workshops + tutorials (ISC25, NHR QML tutorial, GWDG Academy, University of Göttingen)  
--  **Tech:** Python, Linux/Bash, Git, containers, ML (PyTorch), Qiskit, PennyLane, Qulacs, Qsim, CUDA-Q, QuTip ...
 
 ---
 
 ### Highlights
 - Built & maintained **container stacks for quantum simulators on HPC systems**
-- Developed QC use-cases: **QAOA (JSSP, MaxCut)**, **QPE (Hydrogen molecule)**, **QML (qNN / kNN)**, many more coming :)
+- Developed QC use-cases: **QAOA (JSSP, MaxCut)**, **QPE (Hydrogen molecule)**, **QML (qNN / kNN - QNN)**, many more coming :)
 - Poster + tutorial delivery at **ISC25** on QC/HPC benchmarking and quantum optimization
 
 ---
