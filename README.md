@@ -1,4 +1,3 @@
-## It's MeNiKa :) !!! 
 
 <h2 align="center">Mehmet Niyazi Kayi</h2>
 <p align="center">
