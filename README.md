@@ -12,7 +12,13 @@
 </p>
 
 ---
-
+```
+                                                                __
+                                                               / _)
+                                                        .-^^^-/ /
+                                                     __/       /
+                                                    <__.|_|-|_|
+```
 ### About
 I’m a physics M.Sc. student focused on **quantum algorithms + HPC**, currently working at **GWDG (Göttingen)**.
 
