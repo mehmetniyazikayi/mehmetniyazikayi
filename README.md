@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:mehmetniyazi.kayi@stud.uni-goettingen.de">Email</a> •
   <a href="https://github.com/mehmetniyazikayi">GitHub</a> •
-  <a href="www.linkedin.com/in/menika">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/menika">LinkedIn</a> •
   <a href="https://mehmetniyazikayi.github.io/">QuantBrain</a>
 </p>
 
